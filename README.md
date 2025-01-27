@@ -1,2 +1,2 @@
 # RFElectronicSimulations
-Persoanl Repository for RF Electronic Simulations
+Personal Repository for RF Electronic Simulations
